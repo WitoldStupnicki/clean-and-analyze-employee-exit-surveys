@@ -11,4 +11,4 @@ The dataset used in this project was obtained from Dataquest through their Data 
 - Python
 - Pandas
 
-[View the Jupyter Notebook]
+[View the Jupyter Notebook](https://github.com/WitoldStupnicki/clean-and-analyze-employee-exit-surveys/blob/main/Clean_and_Analyze_Employee_Exit_Surveys.ipynb)
