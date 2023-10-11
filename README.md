@@ -4,7 +4,7 @@ This project focuses on several data cleaning steps that are required in order t
 
 ## Dataset
 
-The dataset used in this project was obtained from Dataquest through their Data Analyst in Python course, as the original dataset is no longer publicly available.
+The dataset used in this project was obtained from [here](https://github.com/fivethirtyeight/data/tree/master/star-wars-survey).
 
 ## Technologies and Libraries
 
